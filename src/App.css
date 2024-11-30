@@ -1,3 +1,49 @@
 .App {
   text-align: center;
 }
+.Search {
+  text-align: center;
+}
+h1 {
+  margin-top: 10px;
+  color: #a1dd70;
+  font-size: 40px;
+}
+
+li {
+  text-align: center;
+  list-style: none;
+  margin-right: 100px;
+  color: #a23131;
+  font-weight: bold;
+}
+
+form {
+  text-align: center;
+  padding: 15px;
+  margin: 0;
+}
+
+input {
+  padding: 22px;
+  background-color: #e8ecd6;
+  border: none;
+  width: 35%;
+  margin-right: 10px;
+  border-radius: 8px;
+  font-style: italic;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+button {
+  padding: 20px;
+  border-radius: 8px;
+  width: 110px;
+  border: none;
+  background-color: #a23131;
+  color: white;
+  font-size: 17px;
+}
+
+

@@ -9,6 +9,16 @@ h1 {
   color: #a1dd70;
   font-size: 40px;
 }
+p {
+  text-align: center;
+  margin-top: 30px;
+  color: #a23131;
+  font-weight: 400;
+}
+a {
+  color: #a1dd70;
+  font-weight: bold;
+}
 
 li {
   text-align: center;
@@ -45,5 +55,3 @@ button {
   color: white;
   font-size: 17px;
 }
-
-
